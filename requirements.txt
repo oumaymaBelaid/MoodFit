@@ -1,0 +1,8 @@
+transformers
+datasets
+torch
+tensorflow
+pandas
+numpy
+streamlit
+spotipy
