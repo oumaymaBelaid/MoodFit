@@ -1,8 +1,10 @@
 transformers
 datasets
 torch
-tensorflow
-pandas
-numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+tqdm
 streamlit
 spotipy
